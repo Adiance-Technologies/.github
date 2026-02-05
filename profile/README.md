@@ -1,5 +1,7 @@
 
-# Adiance
+<img width="11356" height="2249" alt="Adiance_full_logo" src="https://github.com/user-attachments/assets/1abbd784-76a2-4834-b4d9-818be154bfb2" />
+
+---
 
 **Adiance** is a technology-driven organization building end-to-end **AI-powered CCTV surveillance solutions**, spanning camera firmware, real-time video streaming, intelligent analytics, and enterprise management platforms.
 
